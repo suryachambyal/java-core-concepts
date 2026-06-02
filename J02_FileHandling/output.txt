@@ -1,0 +1,4 @@
+Hello, this is my first file!
+I am writing in this file using FileWriter in Java.
+This is NEW content added later!
+Appending more text using FileWriter.
