@@ -1,6 +1,6 @@
 # Java Core Concepts
 
-A structured Java core concepts repository covering exception handling, collections, exception handling, file handling, multithreading, executor service, functional programming, optional class, generics, and comparable/comparator with practical examples.
+A structured Java core concepts repository covering collections, exception handling, file handling, multithreading, executor service, functional programming, optional class, generics, and comparable/comparator with practical examples.
 
 ---
 
